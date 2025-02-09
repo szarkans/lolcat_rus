@@ -1,1 +1,13 @@
-{"pack":{"description":"23/06/2024","pack_format":32}}
+{
+    "pack":
+        {
+            "description": "23/06/2024",
+            "pack_format": 61
+        },
+    "language": {
+        "name": "ЛОЛКЕТ",
+        "region": "lol_ru",
+        "biderectional": false
+    }
+        
+}
